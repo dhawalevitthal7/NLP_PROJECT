@@ -1,0 +1,425 @@
+{
+    "questions": [
+        {
+            "question_no": 1,
+            "section": "A",
+            "mcq_option": "D",
+            "sub_questions": [
+                {
+                    "sub_question_no": "ii",
+                    "whole_answer": "* The phenomenon of production of thousands of plants through tissue culture technique is called micropropagation.\n\n* The plants formed are known as \"somaclones\" since they are genetically identical to parent.\n\nEx: Banana, Apple, Tomato\n\nare food plants grown commercially by this method. Triple fusion:\n\n* After pollen tube enters the ovule, it discharges 2 male gametes towards the cytoplasm of synergid.\n\n* One male gamete fuses with egg cell and forms zygote. This is called syngamy.\n\n* The other male gamete moves towards the polar nuclei and fuses with the secondary nucleus to form PEN (Primary Endosperm Nucleus).\n\n* Since it involves the fusion of three haploid cells, it is also called as \"Triple fusion\"."
+                },
+                {
+                    "sub_question_no": "i",
+                    "whole_answer": "* The egg apparatus lies at the micropylar end. It consists of one egg cell and 2 synergids.\n\n* The synergids have cellular thickenings at the micropylar end called filiform apparatus. It helps in guiding of pollen tube towards the synergid.\n\n* The three cells at the chalazal end are called Antipodal cells. The central cell have 2 polar nuclei.\n\n* Thus a mature embryo sac is 8 nucleated and 7 celled."
+                },
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "* Give rise to analogous organs\n\nEg: Flippers of penguin and dolphin"
+                },
+                {
+                    "sub_question_no": "b",
+                    "whole_answer": "* Give rise to homologous organs\n\nEg: F lob vertebrate brains"
+                }
+            ],
+            "whole_answer": "23S rRNA Logistic population growth curve occurs when resources in nature are limited.",
+            "total_marks": null
+        },
+        {
+            "question_no": 2,
+            "section": "A",
+            "mcq_option": "C",
+            "sub_questions": [
+                {
+                    "sub_question_no": "i",
+                    "whole_answer": "There are 4 phases:\n1) Lag phase\n2) Log / Exponential phase\n3) Deceleration phase\n4) Senescent phase"
+                },
+                {
+                    "sub_question_no": "ii",
+                    "whole_answer": "Initially, the population undergoes growth slowly. After a certain period of time, due to available resources, the population undergoes lag phase and achieves maximum population density."
+                },
+                {
+                    "sub_question_no": "iii",
+                    "whole_answer": "In nature, an area has sufficient available resources for maximum growth of a single species, beyond which no further increase in population occurs. This is called nature's carrying capacity."
+                },
+                {
+                    "sub_question_no": "iv",
+                    "whole_answer": "The shape of the curve is sigmoid."
+                }
+            ],
+            "whole_answer": "4",
+            "total_marks": null
+        },
+        {
+            "question_no": 3,
+            "section": "A",
+            "mcq_option": "D",
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "* Invasive weed species such as Carrot grass [Parthenium], Lantana and Water Hyacinth also pose a threat to indigenous species."
+                },
+                {
+                    "sub_question_no": "b",
+                    "whole_answer": "* Biodiversity hotspots are regions of high species diversity and characterized by high level of endemic species.\n* These are regions of accelerated habitat loss."
+                },
+                {
+                    "sub_question_no": "i",
+                    "whole_answer": "Logistic growth curve is considered a more realistic one as in nature, resources are limited."
+                },
+                {
+                    "sub_question_no": "ii",
+                    "whole_answer": "Equation of Verhulst-Pearl logistic growth curve:\n\ndN/dt = rN [(K - N) / K]\n\nWhere,\nN = population density\ndN/dt = rate of change in population\nK = carrying capacity"
+                },
+                {
+                    "sub_question_no": "iii",
+                    "whole_answer": "In nature, a given area has sufficient available resources which allow maximum growth of population of a single species up to a limit beyond which there is no increase in population."
+                }
+            ],
+            "whole_answer": "Address ethical, legal and social issues that arise from project",
+            "total_marks": null
+        },
+        {
+            "question_no": 4,
+            "section": "A",
+            "mcq_option": "C",
+            "sub_questions": [],
+            "whole_answer": "X-linked recessive trait",
+            "total_marks": null
+        },
+        {
+            "question_no": 5,
+            "section": "A",
+            "mcq_option": "B",
+            "sub_questions": [],
+            "whole_answer": "ii, iii and v",
+            "total_marks": null
+        },
+        {
+            "question_no": 6,
+            "section": "A",
+            "mcq_option": "B",
+            "sub_questions": [],
+            "whole_answer": "0.42",
+            "total_marks": null
+        },
+        {
+            "question_no": 7,
+            "section": "A",
+            "mcq_option": "C",
+            "sub_questions": [],
+            "whole_answer": "30%",
+            "total_marks": null
+        },
+        {
+            "question_no": 8,
+            "section": "A",
+            "mcq_option": "B",
+            "sub_questions": [],
+            "whole_answer": "ii and iii",
+            "total_marks": null
+        },
+        {
+            "question_no": 9,
+            "section": "A",
+            "mcq_option": "B",
+            "sub_questions": [],
+            "whole_answer": "Retrovirus",
+            "total_marks": null
+        },
+        {
+            "question_no": 10,
+            "section": "",
+            "mcq_option": "C",
+            "sub_questions": [],
+            "whole_answer": "Coelacanth",
+            "total_marks": null
+        },
+        {
+            "question_no": 11,
+            "section": "",
+            "mcq_option": "A",
+            "sub_questions": [],
+            "whole_answer": "Pvu II",
+            "total_marks": null
+        },
+        {
+            "question_no": 12,
+            "section": "",
+            "mcq_option": "A",
+            "sub_questions": [],
+            "whole_answer": "Both A & R are true & R is correct explanation",
+            "total_marks": null
+        },
+        {
+            "question_no": 13,
+            "section": "",
+            "mcq_option": "A",
+            "sub_questions": [],
+            "whole_answer": "Both A & R are true & R is correct explanation of A.",
+            "total_marks": null
+        },
+        {
+            "question_no": 14,
+            "section": "",
+            "mcq_option": "B",
+            "sub_questions": [],
+            "whole_answer": "Both A & R are true but R is not correct explanation of A",
+            "total_marks": null
+        },
+        {
+            "question_no": 15,
+            "section": "",
+            "mcq_option": "C",
+            "sub_questions": [],
+            "whole_answer": "A is true but R is false",
+            "total_marks": null
+        },
+        {
+            "question_no": 16,
+            "section": "",
+            "mcq_option": "B",
+            "sub_questions": [],
+            "whole_answer": "Both A & R are true but R is not correct explanation of A.",
+            "total_marks": null
+        },
+        {
+            "question_no": 17,
+            "section": "B",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "6 phosphodiester bonds are present in the double stranded polynucleotide chain."
+                },
+                {
+                    "sub_question_no": "b",
+                    "whole_answer": "* 10 base pairs are present in each helical turn\n* Distance between 2 base pairs = 0.34 nm = 3.4 A°"
+                },
+                {
+                    "sub_question_no": "c",
+                    "whole_answer": "* In addition to H-bonds, the stacking of base pairs one over the other in a double helix confers additional stability.\n* The presence of thymine also confers additional stability."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 18,
+            "section": "B",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "* Restrictions are imposed on MTP in India to check the illegal female foeticide which is said to be relatively high in our country."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 19,
+            "section": "b",
+            "mcq_option": null,
+            "sub_questions": [],
+            "whole_answer": "Steps in Decomposition:\n1) Fragmentation\n2) Leaching\n3) Catabolism\n4) Humification\n5) Mineralisation",
+            "total_marks": null
+        },
+        {
+            "question_no": 20,
+            "section": "a",
+            "mcq_option": null,
+            "sub_questions": [],
+            "whole_answer": "Cloning is term which is used for generating multiple copies of an alien gene. EcoRI should be used to cut both the plasmid and alien DNA.\nBecause, when cut by the same restriction enzyme it provides same kind of sticky ends which can be joined together by action of DNA ligase.",
+            "total_marks": null
+        },
+        {
+            "question_no": 21,
+            "section": "",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "Milk produced by the mother during the initial days of lactation is considered to be very essential for the newborn infant as it contains abundant of antibodies [IgA etc.] which develops passive immunity in the infant which enables the infant to resist infections."
+                },
+                {
+                    "sub_question_no": "ii",
+                    "whole_answer": "\"Colostrum\" is the term used for the milk produced during the initial days of lactation."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 22,
+            "section": "C",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "* When the effluent is passed to settling tank, the aerobic flocs [masses of bacteria associated with fungal filaments] sediment to form activated sludge.\n\n* The activated sludge consists of active bacteria and fungi which can cause diseases."
+                },
+                {
+                    "sub_question_no": "b",
+                    "whole_answer": "Biological treatment of Activated Sludge:\n\n* When effluent is passed to settling tank, the bacterial flocs settle down to form activated sludge.\n\n* A small part of the activated sludge is pumped back into aeration tank which acts as inoculum.\n\n* The major part of the sludge is transferred to anaerobic sludge digesters which consist of anaerobically growing bacteria.\n\n* The anaerobic bacteria decompose the aerobic bacteria and fungi and release large amount of methane, hydrogen sulphide and carbon dioxide, etc.\n\n* These gases can also be used as a biogas, as it is inflammable."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 23,
+            "section": "",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "* \"Self incompatibility\" is the outbreeding device.\n\n* Self incompatibility is the genetic mechanism which either inhibits or restricts the growth of pollen of same flower or same plant.\n\n* Self incompatibility is the genetic mechanism which prevents the fertilisation of pollen on same flower or same plant by inhibiting the germination of pollen grain in stigma and growth of pollen tube in style."
+                },
+                {
+                    "sub_question_no": "b",
+                    "whole_answer": "* Majority of the plants produce hermaphrodite flowers.\n\n* So in absence of outbreeding devices such as self incompatibility, the plant would have undergone continuous self pollination which result in inbreeding depression.\n\n* It results in reduced genetic variability of species."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 24,
+            "section": "",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "Alien species invasion:\n\n1) * Introduction of Nile Perch in Victoria lake in East Africa led to the extinction of an ecologically unique assemblage of more than 200 species of cichlid fish.\n\n2) * Introduction of African Catfish \"Clarias gariepinus\" for aquaculture purposes poses a threat to indigenous catfish in our rivers."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 25,
+            "section": "",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "\"Female Heterogamety\" is observed in most birds."
+                },
+                {
+                    "sub_question_no": "b",
+                    "whole_answer": "Male bird:\n  i) 36 autosomes\n  ii) ZZ\nFemale bird:\n  i) 36 autosomes\n  ii) ZW"
+                },
+                {
+                    "sub_question_no": "i",
+                    "whole_answer": "Cannabis sativa is the scientific name of 'p'."
+                }
+            ],
+            "whole_answer": "* Hepatitis C and HIV are transmitted through body fluids.\n\n* In intravenous drug abusers, Hepatitis C and HIV are very common because sometimes they use same syringes for injecting drugs.\n\n* As a result with increase in number of people who inject drugs, people affected with HIV and Hepatitis B are also increased.\n\n* Both HIV and Hepatitis C are chronic disorders and are fatal.\n\nPerson living with HIV = 1.6 million\nPerson with HIV and Hepatitis C = 1.4 million",
+            "total_marks": null
+        },
+        {
+            "question_no": 26,
+            "section": "",
+            "mcq_option": null,
+            "sub_questions": [],
+            "whole_answer": "* Lactose is the inducer of lac operon.\n* If lactose is present in the medium and glucose is absent, the cells take in lactose by the activity of enzyme permease.\n* Small level of permease should be present in cell all the time otherwise lactose cannot enter the cell. So, a very low expression of lac operon is present all the time.\n* The gene i transcribes and translates to form a repressor protein. Gene i is a constitutive gene as it synthesizes repressor protein all the time.\n* In absence of lactose, the repressor binds to operator and prevents transcription of lac operon by not allowing RNA polymerase to bind to promoter.",
+            "total_marks": null
+        },
+        {
+            "question_no": 27,
+            "section": "a",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "i",
+                    "whole_answer": "Inner wall of uterus = Endometrium\nMiddle wall of uterus = Myometrium\n\n* Endometrium is the glandular layer of uterus which undergo cyclical changes during menstrual cycle at each month.\n\n* Myometrium is the middle thick layer of smooth muscles which undergo vigorous contraction at the time of parturition for delivery of baby. * Infundibulum the part of fallopian tube closer to ovary has finger like projections called Fimbriae.\n\n* Fimbriae help in collection of ovum from the ovary after ovulation."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 28,
+            "section": "",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "* In 1997, Rosie, the first transgenic cow produced human protein enriched milk [2.4 gram per litre].\n\n* The milk contained human alpha-lactalbumin which was nutritionally a more balanced product than natural cow milk."
+                },
+                {
+                    "sub_question_no": "b",
+                    "whole_answer": "* The human protein α-1-antitrypsin is used to treat emphysema, which is a chronic respiratory disorder.\n\n* Other products are also being developed for the treatment of phenylketonuria and cystic fibrosis.\n\n* Medicines used to treat biological diseases consist of biological products. These products are very expensive to make so transgenic animals are made to carry a specific gene which synthesizes such products."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 29,
+            "section": "D",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "* People who use drugs increased over 20% in the past 10 years.\n\n* The intake of drugs is high among men compared to women.\n\n* 1 in 18 people are women whereas 1 in 7 people are men undergoing treatment."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 30,
+            "section": "a",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "ii",
+                    "whole_answer": "Convergent Evolution:\n* The process by which different anatomical features of different species developed along same line of direction to perform similar functions due to similar habitat is called convergent evolution.\n* Does not indicate common ancestry.\n\nDivergent Evolution:\n* The process by which similar anatomical features developed along different directions due to adaptation to different needs is called divergent evolution.\n* Indicate common ancestry."
+                }
+            ],
+            "whole_answer": "\"Mutation\" is the term used for the substitution of new gene for the old gene and the new allele arising from the old ones due to evolutionary process according to evolutionary theory.",
+            "total_marks": null
+        },
+        {
+            "question_no": 31,
+            "section": "D",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "b",
+                    "whole_answer": "Logistic growth phase:\n\n* In an environment, no species has unlimited resources to attain maximum growth population.\n\n* Resources in nature are limited because of which competition occurs.\n\n[Graph included showing population density vs. time with labeled phases: lag phase, log phase, and carrying capacity, along with the equation dn/dt = rN [(K-N)/K]]."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 32,
+            "section": "a",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "i",
+                    "whole_answer": "* Gene Therapy :-\n\n* \"Gene Therapy\" is a collection of methods used to correct a genetic defect diagnosed in child/embryo.\n* In this the functional gene is directly injected into tissues or cells of an individual or embryo which compensates the non-functional gene.\n\n* In 1990, a 4-year-old girl was diagnosed with ADA deficiency [ Adenosine Deaminase Deficiency ] due to deletion in enzyme gene that codes for enzyme Adenosine deaminase.\n\n* It is very crucial for the functioning of immune system.\n\n* The first attempt of gene therapy involves the isolation of lymphocytes from the blood of patient and culturing it in a medium outside the cell.\n\n* By using a retroviral vector, ADA cDNA [ ADA complementary DNA ] was introduced into the lymphocytes.\n\n* The genetically engineered lymphocytes are introduced back into the patient which then produces Adenosine deaminase.\n\n* The main problem is that the lymphocytes are not immortal cells, so periodic infusion of genetically engineered lymphocytes is required."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        },
+        {
+            "question_no": 33,
+            "section": "",
+            "mcq_option": null,
+            "sub_questions": [
+                {
+                    "sub_question_no": "a",
+                    "whole_answer": "* After megasporogenesis out of 4 megaspores, 3 megaspores degenerate and 1 functional megaspore forms the embryo sac.\n\n* Embryo sac is the female gametophyte. Since the embryo sac is formed from a single megaspore, it is called monosporic development.\n\n* The nucleus of megaspore divides mitotically to give 2, 4, and 8 nucleate embryo sac by 3 successive generations. The division is strictly free nuclear.\n\n* Later cell walls are laid up. 6 out of 8 nuclei are enclosed by cell walls. The 2 nuclei at the centre called the polar nuclei are enclosed by a central cell."
+                }
+            ],
+            "whole_answer": "",
+            "total_marks": null
+        }
+    ]
+}

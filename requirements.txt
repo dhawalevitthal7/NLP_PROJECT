@@ -1,0 +1,31 @@
+# Core API
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.9
+
+# Azure OpenAI SDK
+openai>=1.30.0
+
+# PDF rendering
+PyMuPDF>=1.23.0
+
+# Pydantic v2 + env settings
+pydantic>=2.5.0
+pydantic-settings>=2.2.0
+
+# NLP / semantic scoring
+sentence-transformers>=2.6.0
+transformers>=4.38.0
+torch>=2.1.0
+scikit-learn>=1.3.0
+numpy>=1.26.0
+chromadb>=0.5.5
+
+# BERT Score (optional scorer)
+bert-score>=0.3.13
+
+# ROUGE score (optional scorer)
+rouge-score>=0.1.2
+
+# Image processing (used by pdf_service.py)
+Pillow>=10.0.0

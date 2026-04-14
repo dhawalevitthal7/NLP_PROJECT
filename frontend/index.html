@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Semantic Evaluation MVP</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Semantic Answer Evaluation</h1>
+    <p class="muted">Upload marking scheme + student answer sheet PDFs and evaluate with selectable techniques.</p>
+
+    <section class="card">
+      <form id="evalForm">
+        <label>
+          Marking Scheme PDF
+          <input type="file" id="markingPdf" accept=".pdf" required />
+        </label>
+        <label>
+          Student Answer Sheet PDF
+          <input type="file" id="studentPdf" accept=".pdf" required />
+        </label>
+        <label>
+          Evaluation Mode
+          <select id="mode">
+            <option value="fast_semantic">Fast Semantic</option>
+            <option value="balanced" selected>Balanced</option>
+            <option value="llm_heavy">LLM Heavy</option>
+          </select>
+        </label>
+        <button type="submit">Start Evaluation</button>
+      </form>
+    </section>
+
+    <section class="card">
+      <h2>Job Status</h2>
+      <div id="statusText">Idle</div>
+      <div id="jobIdText" class="muted"></div>
+    </section>
+
+    <section class="card">
+      <h2>Summary</h2>
+      <pre id="summary">No result yet.</pre>
+    </section>
+
+    <section class="card">
+      <h2>Per Question</h2>
+      <div class="tableWrap">
+        <table id="resultTable">
+          <thead>
+            <tr>
+              <th>Question</th>
+              <th>Marks</th>
+              <th>Max</th>
+              <th>Confidence</th>
+              <th>Needs Review</th>
+              <th>Feedback</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
